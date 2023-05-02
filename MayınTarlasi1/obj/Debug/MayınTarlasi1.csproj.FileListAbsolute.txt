@@ -1,0 +1,10 @@
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\MayınTarlasi1\MayınTarlasi1\bin\Debug\MayınTarlasi1.exe.config
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\MayınTarlasi1\MayınTarlasi1\bin\Debug\MayınTarlasi1.exe
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\MayınTarlasi1\MayınTarlasi1\bin\Debug\MayınTarlasi1.pdb
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\MayınTarlasi1\MayınTarlasi1\obj\Debug\MayınTarlasi1.csproj.AssemblyReference.cache
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\MayınTarlasi1\MayınTarlasi1\obj\Debug\MayınTarlasi1.Form1.resources
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\MayınTarlasi1\MayınTarlasi1\obj\Debug\MayınTarlasi1.Properties.Resources.resources
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\MayınTarlasi1\MayınTarlasi1\obj\Debug\MayınTarlasi1.csproj.GenerateResource.cache
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\MayınTarlasi1\MayınTarlasi1\obj\Debug\MayınTarlasi1.csproj.CoreCompileInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\MayınTarlasi1\MayınTarlasi1\obj\Debug\MayınTarlasi1.exe
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\MayınTarlasi1\MayınTarlasi1\obj\Debug\MayınTarlasi1.pdb
